@@ -3,7 +3,9 @@ import Header from './Header';
 
 function App() {
   return (
-    <Header title="Be The Hero" />
+    <Header>
+      Semana OmniStack
+    </Header>
   );
 }
 
